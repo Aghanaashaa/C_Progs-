@@ -1,2 +1,4 @@
-# C_Progs-
-C++ programs 
+# C++_Programs 
+Basics
+Inheritance 
+Projects using classes
